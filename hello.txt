@@ -1,7 +1,7 @@
 Hello World!Hello Git! hot-fix
 Hello World!Hello Git! master
 Hello World!Hello Git! hot-fix
-Hello World!Hello Git!
+Hello World!Hello Git! master
 Hello Git!Hello World!
 Hello Git!Hello World! master
 Hello Git!Hello World! hot-fix
